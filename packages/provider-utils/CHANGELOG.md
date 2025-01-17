@@ -1,5 +1,11 @@
 # @ai-sdk/provider-utils
 
+## 2.1.1
+
+### Patch Changes
+
+- e7a9ec9: feat (provider-utils): include raw value in json parse results
+
 ## 2.1.0
 
 ### Minor Changes
